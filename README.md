@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="preview/dark.png" alt="Solace Dark Preview" />
-<img src="preview/light.png" alt="Solace Light Preview" />
-
 # Solace
 
-A minimal Obsidian theme with violet undertones and pastel syntax.
+A minimal Obsidian theme with violet undertones.
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Obsidian](https://img.shields.io/badge/Obsidian-v1.8+-purple?logo=obsidian&logoColor=white)](https://obsidian.md)
+
+<img src="preview/dark.png" alt="Solace Dark Preview" />
+<img src="preview/light.png" alt="Solace Light Preview" />
 
 </div>
 
 ---
 
-A port of the [Solace](https://github.com/bhavya-dang/Solace) theme — originally built for Zed — to Obsidian.
+A port of the [Solace](https://github.com/bhavya-dang/Solace) theme - originally built for Zed - to Obsidian.
 
 > Disclosure: AI was used to port the theme to Obsidian and write this README. However, AI was **not** used for the original Zed theme.
 
@@ -31,14 +31,14 @@ Variants can be set using [Style Settings](https://github.com/StyleSettings/obsi
 
 ## Features
 
-- **Full syntax highlighting** — Pastel palette for comments, keywords, strings, variables, definitions, operators, and more.
-- **Complete UI theming** — Sidebar, tabs, modals, command palette, graph view, file explorer, settings, and every Obsidian surface.
-- **Style Settings integration** — Customize variant, fonts, accent colors, editor line height, code block styling, border radius, and more.
-- **Callout support** — Color-coded callouts for note, tip, warning, danger, bug, question, and more.
-- **Plugin compatibility** — Styled for Dataview, Kanban, and DB Folder.
-- **Mobile support** — Dedicated styles for sidebar, ribbon, modals, and markdown preview.
-- **Custom scrollbars** — Thin, minimal scrollbars.
-- **Obsidian 1.4+ color variables** — Full `--color-base-*` and `--color-accent-*` mappings.
+- **Full syntax highlighting:** Pastel palette for comments, keywords, strings, variables, definitions, operators, and more.
+- **Complete UI theming:** Sidebar, tabs, modals, command palette, graph view, file explorer, settings, and every Obsidian surface.
+- **Style Settings integration:** Customize variant, fonts, accent colors, editor line height, code block styling, border radius, and more.
+- **Callout support:** Color-coded callouts for note, tip, warning, danger, bug, question, and more.
+- **Plugin compatibility:** Styled for Dataview, Kanban, and DB Folder.
+- **Mobile support:** Dedicated styles for sidebar, ribbon, modals, and markdown preview.
+- **Custom scrollbars:** Thin, minimal scrollbars.
+- **Obsidian 1.4+ color variables:** Full `--color-base-*` and `--color-accent-*` mappings.
 
 ## Typography
 
@@ -69,18 +69,18 @@ https://github.com/bhavya-dang/solace-obsidian
 
 Install the [Style Settings](https://github.com/StyleSettings/obsidian-style-settings) plugin to unlock the full configuration panel. Options include:
 
-- **Variant** — Switch between Dark, Light, and Dusk
-- **Typography** — Interface font, text font, monospace font
-- **Colors** — Accent color, background, text color
-- **Editor** — Line height, font size, max width
-- **Code blocks** — Font size, line height, padding
-- **UI** — Border radius, transition speed, sidebar width, ribbon width
-- **Callouts, tables, images** — Border radius, padding, borders
-- **Reading view** — Max width
-- **Graph view** — Line width
+- **Variant:** Switch between Dark, Light, and Dusk
+- **Typography:** Interface font, text font, monospace font
+- **Colors:** Accent color, background, text color
+- **Editor:** Line height, font size, max width
+- **Code blocks:** Font size, line height, padding
+- **UI:** Border radius, transition speed, sidebar width, ribbon width
+- **Callouts, tables, images:** Border radius, padding, borders
+- **Reading view:** Max width
+- **Graph view:** Line width
 
 ## License
 
-[MIT](LICENSE) — Bhavya Dang ([bhavyadang.in](https://bhavyadang.in))
+[MIT](LICENSE) - Bhavya Dang ([bhavyadang.in](https://bhavyadang.in))
 
 Original Solace theme for Zed: [github.com/bhavya-dang/Solace](https://github.com/bhavya-dang/Solace)
