@@ -13,7 +13,7 @@ A minimal Obsidian theme with violet undertones.
 
 ---
 
-A port of the [Solace](https://github.com/bhavya-dang/Solace) theme - originally built for Zed - to Obsidian.
+A port of the [Solace](https://github.com/Solace-Theme/Solace) theme - originally built for Zed - to Obsidian.
 
 > Disclosure: AI assistance was used to port the theme to Obsidian and write this README. However, AI was **not** used for the original Zed theme.
 
