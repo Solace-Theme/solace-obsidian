@@ -22,6 +22,32 @@
     box-sizing: inherit;
 }
 
+/* ── Scrollbars ─────────────────────────────────────────────── */
+
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(152, 128, 232, 0.25);
+    border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(152, 128, 232, 0.45);
+}
+
+/* Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(152, 128, 232, 0.25) transparent;
+}
+
 /*
  * Solace — A minimal Obsidian theme with violet undertones and pastel syntax.
  * Author: Bhavya Dang (bhavyadang.in)

@@ -1,6 +1,6 @@
 <div align="center">
 
-   <img src="preview/demo.png" alt="Solace" width="800" />
+   <img src="preview/demo-2.png" alt="Solace" width="800" />
 
 </div>
 
@@ -37,51 +37,63 @@ Switch variants from **Settings** > **Appearance** > **Solace** > **Style Settin
 
 ## Preview
 
-<div align="left">
-    <img src="./preview/demo2.png" alt="Solace Dark" width="800">
-    <img src="./preview/demo1.png" alt="Solace Light" width="800">
+<div align="center">
+    <img src="./preview/dark-theme.png" alt="Solace Dark" width="800">
+</div>
+
+<div align="center">
+    <img src="./preview/light-theme.png" alt="Solace Light" width="800">
+</div>
+
+<div align="center">
+    <img src="./preview/dusk-theme.png" alt="Solace Dusk" width="800">
 </div>
 
 ### Tables
 
-<img src="./preview/table.png" alt="Table styling" width="600">
-
+<div align="center">
+    <img src="./preview/table.png" alt="Table styling" width="800">
+</div>
 
 ### Callouts
 
-<div align="left">
-    <table>
-        <tr>
-            <td><img src="./preview/call1.png" alt="Callouts 1" width="400"></td>
-            <td><img src="./preview/call2.png" alt="Callouts 2" width="400"></td>
-        </tr>
-        <tr>
-            <td><img src="./preview/call3.png" alt="Callouts 3" width="400"></td>
-            <td><img src="./preview/call4.png" alt="Callouts 4" width="400"></td>
-        </tr>
-        <tr>
-            <td colspan="2" align="center"><img src="./preview/call5.png" alt="Callouts 5" width="400"></td>
-        </tr>
-    </table>
+<div align="center">
+    <img src="./preview/callouts/call1.png" alt="Callouts 1" width="800">
+</div>
+
+<div align="center">
+    <img src="./preview/callouts/call2.png" alt="Callouts 2" width="800">
+</div>
+
+<div align="center">
+    <img src="./preview/callouts/call3.png" alt="Callouts 3" width="800">
+</div>
+
+<div align="center">
+    <img src="./preview/callouts/call4.png" alt="Callouts 4" width="800">
+</div>
+
+<div align="center">
+    <img src="./preview/callouts/call5.png" alt="Callouts 5" width="800">
 </div>
 
 ## Callout Types
 
-| Type | Aliases | Description |
-|------|---------|-------------|
-| `note` | | General notes, violet |
-| `info` | | Informational content, violet |
-| `todo` | | Action items, violet |
-| `tip` | `hint`, `important` | Helpful suggestions, teal |
-| `success` | | Positive outcomes, teal |
-| `warning` | `caution`, `attention` | Cautionary messages, yellow |
-| `danger` | `error` | Critical warnings, rose |
-| `failure` | | Failed operations, rose |
-| `bug` | | Bug reports, rose |
-| `example` | | Code or usage examples, pink |
-| `quote` | `cite` | Quoted text, gray |
-| `abstract` | `summary` | Summaries, gray |
-| `question` | `help`, `faq` | Questions, violet |
+| Type       | Aliases                | Description                   |
+| ---------- | ---------------------- | ----------------------------- |
+| `note`     |                        | General notes, violet         |
+| `info`     |                        | Informational content, violet |
+| `todo`     |                        | Action items, violet          |
+| `tip`      | `hint`, `important`    | Helpful suggestions, teal     |
+| `success`  |                        | Positive outcomes, teal       |
+| `warning`  | `caution`, `attention` | Cautionary messages, yellow   |
+| `danger`   | `error`                | Critical warnings, rose       |
+| `failure`  |                        | Failed operations, rose       |
+| `bug`      |                        | Bug reports, rose             |
+| `example`  |                        | Code or usage examples, pink  |
+| `quote`    | `cite`                 | Quoted text, gray             |
+| `abstract` | `summary`              | Summaries, gray               |
+| `question` | `help`, `faq`          | Questions, violet             |
 
 ## Installation
 
