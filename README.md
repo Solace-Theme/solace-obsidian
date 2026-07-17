@@ -8,7 +8,7 @@
 
 Solace is a clean, minimal theme built around a soft violet palette. Originally created for [Zed](https://github.com/Solace-Theme/Solace), it has been brought to Obsidian with the same attention to detail and restraint.
 
-[![Downloads](https://img.shields.io/badge/dynamic/json?query=%24%5B%22Solace%22%5D.download&url=https%3A%2F%2Freleases.obsidian.md%2Fstats%2Ftheme&label=Downloads&style=flat&color=c9a8ff&logo=obsidian&logoColor=c9a8ff)](https://obsidian.md/themes/solace)
+[![Downloads](https://img.shields.io/badge/dynamic/json?query=%24%5B%22Solace%22%5D.download&url=https%3A%2F%2Freleases.obsidian.md%2Fstats%2Ftheme&label=Downloads&style=flat&color=c9a8ff&logo=obsidian&logoColor=c9a8ff)](https://community.obsidian.md/themes/solace)
 
 ## Variants
 
